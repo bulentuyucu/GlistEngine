@@ -60,8 +60,8 @@ On Linux:
 3- Open file explorer and create necessary folders:
 
 On Windows:
-- C:\dev\glist\myglistapps
-- C:\dev\glist\zbin
+- d:\dev\glist\myglistapps
+- d:\dev\glist\zbin
 
 On macOS:
 - ~/dev/glist/myglistapps
@@ -75,7 +75,7 @@ On Linux:
 4- Open command line(cmd.exe or bash) and go to the zbin folder by the command
 
 On Windows:
-> cd C:\dev\glist\zbin
+> cd d:\dev\glist\zbin
 
 On macOS:
 > cd ~/dev/glist/zbin
@@ -87,19 +87,19 @@ On Linux:
 5- First of all, you need to clone the zbin repo. Clone the zbin repo by writing one of these commands on command line:
 
 On Windows:
->  git clone https://github.com/yourgithubusername/glistzbin-win64.git
+>  git clone https://github.com/bulentuyucu/glistzbin-win64.git
 
 On MacOS:
->  git clone https://github.com/yourgithubusername/glistzbin-macos.git
+>  git clone https://github.com/bulentuyucu/glistzbin-macos.git
 
 On Linux:
->  git clone https://github.com/yourgithubusername/glistzbin-linux.git
+>  git clone https://github.com/bulentuyucu/glistzbin-linux.git
 
 
 6- Go one folder up
 
 On Windows:
-> cd C:\dev\glist
+> cd D:\dev\glist
 
 On macOS:
 > cd ~/dev/glist
@@ -110,13 +110,13 @@ On Linux:
 
 7- Clone the GlistEngine repo
 
-> git clone https://github.com/yourgithubusername/glistengine.git
+> git clone https://github.com/bulentuyucu/glistengine.git
 
 
 8- Go to myglistapps folder
 
 On Windows:
-> cd C:\dev\glist\myglistapps
+> cd d:\dev\glist\myglistapps
 
 On macOS:
 > cd ~/dev/glist/myglistapps
@@ -127,7 +127,7 @@ On Linux:
 
 9- Clone the GlistApp repo
 
-> git clone https://github.com/yourgithubusername/glistapp.git
+> git clone https://github.com/bulentuyucu/glistapp.git
 
 
 10- Run the GlistEngine
@@ -135,7 +135,7 @@ On Linux:
 Start the engine.
 
 On Windows:
-- Open file explorer, go to C:\dev\glist\zbin\glistzbin-win64 and double click GlistEngine
+- Open file explorer, go to d:\dev\glist\zbin\glistzbin-win64 and double click GlistEngine
 
 On macOS:
 - Open Terminal and enter this command
